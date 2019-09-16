@@ -15,7 +15,7 @@ use feature qw(say);
 use Getopt::Long;
 
 sub usage;
-sub create_bmp;
+sub create_bmp;hhhh
 sub inject_payload;
 
 # Command line options
